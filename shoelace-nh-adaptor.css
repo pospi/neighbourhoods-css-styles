@@ -12,6 +12,19 @@
   --sl-color-primary-900: var(--nh-color-primary-900);
   --sl-color-primary-950: var(--nh-color-primary-950);
 
+    /* Success */
+    --sl-color-neutral-50: var(--nh-color-neutral-50);
+    --sl-color-neutral-100: var(--nh-color-neutral-100);
+    --sl-color-neutral-200: var(--nh-color-neutral-200);
+    --sl-color-neutral-300: var(--nh-color-neutral-300);
+    --sl-color-neutral-400: var(--nh-color-neutral-400);
+    --sl-color-neutral-500: var(--nh-color-neutral-500);
+    --sl-color-neutral-600: var(--nh-color-neutral-600);
+    --sl-color-neutral-700: var(--nh-color-neutral-700);
+    --sl-color-neutral-800: var(--nh-color-neutral-800);
+    --sl-color-neutral-900: var(--nh-color-neutral-900);
+    --sl-color-neutral-950: var(--nh-color-neutral-950);
+
   /* Success */
   --sl-color-success-50: var(--nh-color-success-50);
   --sl-color-success-100: var(--nh-color-success-100);
