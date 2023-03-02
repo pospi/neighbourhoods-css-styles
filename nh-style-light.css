@@ -1,0 +1,61 @@
+:root{
+
+    /* nh colors light */
+
+    --nh-color-background-0: rgb(249 249 250);
+    --nh-color-background-1: rgb(223 222 223);
+    --nh-color-background-2: rgb(187 185 189);
+
+    --nh-color-font-0: rgb(43 36 48);
+    --nh-color-font-1: rgb(67 61 71);
+    --nh-color-font-2: rgb(92 87 96);
+
+    --nh-color-primary-50: rgb(250 248 255);
+    --nh-color-primary-100: rgb(240 233 255);
+    --nh-color-primary-200: rgb(228 216 255);
+    --nh-color-primary-300: rgb(215 198 255);
+    --nh-color-primary-400: rgb(197 173 255);
+    --nh-color-primary-500: rgb(174 140 255);
+    --nh-color-primary-600: rgb(148 102 255);
+    --nh-color-primary-700: rgb(122 78 225);
+    --nh-color-primary-800: rgb(101 64 186);
+    --nh-color-primary-900: rgb(72 46 133);
+    --nh-color-primary-950: rgb(44 28 82);
+
+    --nh-color-success-50: rgb(242 255 210);
+    --nh-color-success-100: rgb(204 253 87);
+    --nh-color-success-200: rgb(191 238 82);
+    --nh-color-success-300: rgb(178 222 76);
+    --nh-color-success-400: rgb(160 199 69);
+    --nh-color-success-500: rgb(138 171 59);
+    --nh-color-success-600: rgb(114 142 49);
+    --nh-color-success-700: rgb(93 116 40);
+    --nh-color-success-800: rgb(77 96 33);
+    --nh-color-success-900: rgb(55 68 23);
+    --nh-color-success-950: rgb(34 42 14);
+
+    --nh-color-neutral-50: rgb(249 249 250);
+    --nh-color-neutral-100: rgb(237 236 237);
+    --nh-color-neutral-200: rgb(223 221 224);
+    --nh-color-neutral-300: rgb(208 206 210);
+    --nh-color-neutral-400: rgb(188 185 190);
+    --nh-color-neutral-500: rgb(163 158 166);
+    --nh-color-neutral-600: rgb(136 130 140);
+    --nh-color-neutral-700: rgb(112 106 118);
+    --nh-color-neutral-800: rgb(94 86 100);
+    --nh-color-neutral-900: rgb(69 60 76);
+    --nh-color-neutral-950: rgb(42 37 47);
+
+    --nh-color-danger-50: rgb(255 248 249);
+    --nh-color-danger-100: rgb(255 230 235);
+    --nh-color-danger-200: rgb(255 211 220);
+    --nh-color-danger-300: rgb(255 189 202);
+    --nh-color-danger-400: rgb(255 158 177);
+    --nh-color-danger-500: rgb(255 113 141);
+    --nh-color-danger-600: rgb(227 78 108);
+    --nh-color-danger-700: rgb(187 65 89);
+    --nh-color-danger-800: rgb(155 53 73);
+    --nh-color-danger-900: rgb(111 38 52);
+    --nh-color-danger-950: rgb(69 24 33);
+
+}
