@@ -2,8 +2,12 @@
   "name": "@neighbourhoods/theme-styles",
   "version": "0.0.1",
   "description": "CSS base theme variables for use in Neighbourhoods Applet UI components and other web apps wishing to adopt the Neighbourhoods design system.",
-  "main": "nh-style-base.css",
+  "module": "dist/index.js",
+  "src": "index.ts",
+  "files": ["*.ts", "*.css", "dist/*.js"],
   "scripts": {
+    "prepare": "npm run build",
+    "build": "rollup -c rollup.config.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,5 +26,13 @@
   "bugs": {
     "url": "https://github.com/neighbour-hoods/css-styles/issues"
   },
-  "homepage": "https://github.com/neighbour-hoods/css-styles#readme"
+  "homepage": "https://github.com/neighbour-hoods/css-styles#readme",
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "@rollup/plugin-typescript": "^11.0.0",
+    "rollup": "^3.18.0",
+    "rollup-plugin-import-css": "^3.2.1",
+    "tslib": "^2.5.0",
+    "typescript": "^4.9.5"
+  }
 }
