@@ -1,0 +1,26 @@
+{
+  "name": "@neighbourhoods/theme-styles",
+  "version": "0.0.1",
+  "description": "CSS base theme variables for use in Neighbourhoods Applet UI components and other web apps wishing to adopt the Neighbourhoods design system.",
+  "main": "nh-style-base.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neighbour-hoods/css-styles.git"
+  },
+  "keywords": [
+    "Neighbourhoods",
+    "theme",
+    "styles",
+    "CSS",
+    "WebComponents"
+  ],
+  "author": "Neighbourhoods Ltd & contributors",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/neighbour-hoods/css-styles/issues"
+  },
+  "homepage": "https://github.com/neighbour-hoods/css-styles#readme"
+}
